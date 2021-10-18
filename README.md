@@ -1,7 +1,7 @@
-# plotlydeploy
+# plotlydeploy - Bellybutton Bacteria
 
 
-Bellybutton Bacteria
+
 # Overview
 Roza is a microbiologist that apporached us to help make visualizations to detail the importance of different parts of her research, to her sponsor, the biology community, and general public.
 
