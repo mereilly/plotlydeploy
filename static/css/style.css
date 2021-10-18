@@ -1,0 +1,14 @@
+.jumbotron{
+  background-image: url(../images/colorful_microbes.jpeg);
+  background-size: cover;
+  height: 100%;
+}
+
+.col-md-2{
+  background-color: #0c2346;
+}
+
+.row{
+  background-color:#6356db;
+  background-blend-mode: multiply; 
+}
