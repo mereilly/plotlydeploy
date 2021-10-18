@@ -1,5 +1,5 @@
 .jumbotron{
-  background-image: url(../images/colorful_microbes.jpeg);
+  background-image: (images/colorful_microbes.jpeg);
   background-size: cover;
   height: 100%;
 }
