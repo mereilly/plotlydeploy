@@ -170,3 +170,8 @@ function buildCharts(sample) {
     Plotly.newPlot('gauge', gaugeData, gaugeLayout);
   });
 }
+    // 3. Use Plotly to plot the data with the layout.
+    Plotly.newPlot('bubble', bubbleData, bubbleLayout); 
+    
+    // 3. Use Plotly to plot the data with the layout.
+    Plotly.newPlot('bubble', bubbleData, bubbleLayout); 
