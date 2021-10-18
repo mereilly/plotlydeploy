@@ -12,5 +12,5 @@ Specifically here you'll find a static folder with the following chart types:
 • Create a Horizontal Bar Chart
 • Create a Bubble Chart
 • Create a Gauge Chart
-Which are all compiled on GitHub pages repository here:
+Which are all compiled on GitHub pages repository here: https://mereilly.github.io/plotlydeploy/
 
