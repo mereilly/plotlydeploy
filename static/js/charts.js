@@ -1,3 +1,5 @@
+/////// D1
+// Create a Horizontal Bar Chart
 function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
