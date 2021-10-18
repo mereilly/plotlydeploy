@@ -147,13 +147,13 @@ function buildCharts(sample) {
       title: {text: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week"},
       gauge: {
         axis: { range: [null, 10] },
-        bar: { color: "yellow" },
+        bar: { color: "red" },
         steps: [
-          { range: [0, 2], color: "yellow" },
-          { range: [2, 4], color: "yellos" },
+          { range: [0, 2], color: "red" },
+          { range: [2, 4], color: "orange" },
           { range: [4, 6], color: "yellow" },
-          { range: [6, 8], color: "yellow" },
-          { range: [8, 10], color: "yellow" }
+          { range: [6, 8], color: "green" },
+          { range: [8, 10], color: "blue" }
 
         ]  
       }
